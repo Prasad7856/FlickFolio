@@ -51,7 +51,7 @@ export default function Home() {
                     }
                 </Carousel>
 
-                <MovieList/>
+                {/* <MovieList/> */}
             </div>
 
         </>
